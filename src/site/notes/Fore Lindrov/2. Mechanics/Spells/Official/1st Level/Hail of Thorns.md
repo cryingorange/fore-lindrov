@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/fore-lindrov/2-mechanics/spells/official/1st-level/hail-of-thorns/","dg-note-properties":{"Mechanic Type":"Spell","Spell Level":"1st","School of Magic":"Conjuration","Components":["Verbal"],"Circle Spell":false,"Concentration":false,"Source":"PHB24","Official":true}}
+---
+
+> **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Ranged weapon
+> **Range:** Self
+> **Components:** V
+> **Duration:** Instantaneous
+
+As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 5 feet of it make a DEX saving throw, taking 1d10 Piercing damage on a failed save or half as much damage on a successful one.
+
+**Using a Higher-Level Spell Slot**. The damage increases by 1d10 for each spell slot level above 1.
+
+**Classes:** #Ranger

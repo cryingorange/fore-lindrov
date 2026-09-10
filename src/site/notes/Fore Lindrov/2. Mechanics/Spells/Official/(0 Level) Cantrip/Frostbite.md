@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/fore-lindrov/2-mechanics/spells/official/0-level-cantrip/frostbite/","dg-note-properties":{"Mechanic Type":"Spell","Spell Level":"Cantrip","School of Magic":"Evocation","Components":["Verbal","Somatic"],"Circle Spell":false,"Concentration":false,"Source":"Xanathar's Guide to Everything","Official":true}}
+---
+
+>**Casting Time:** Action 
+>**Range:**  60 feet
+>**Components:** V, S
+>**Duration:** Instantaneous
+
+You cause numbing frost to form on one creature that you can see within range. The target must make a CON saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+**Classes:** #Artificer, #Druid, #Sorcerer, #Warlock, #Wizard
