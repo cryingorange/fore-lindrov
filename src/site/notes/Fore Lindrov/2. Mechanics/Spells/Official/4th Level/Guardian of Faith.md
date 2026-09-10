@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/fore-lindrov/2-mechanics/spells/official/4th-level/guardian-of-faith/","dg-note-properties":{"Mechanic Type":"Spell","Spell Level":"4th","School of Magic":"Conjuration","Components":["Verbal"],"Circle Spell":false,"Concentration":false,"Source":"PHB24","Official":true}}
+---
+
+> **Casting Time:** Action
+> **Range**: 30 feet
+> **Components:** V
+> **Duration:** 8 hours
+
+A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon.
+
+Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a DEX saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
+
+**Classes:** #Cleric
