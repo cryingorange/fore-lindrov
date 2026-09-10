@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/fore-lindrov/2-mechanics/references/monstrous-transformation/","dg-note-properties":{"Mechanic Type":"Table"}}
+---
+
+A creature that has 6 levels of [[Fore Lindrov/2. Mechanics/Condition/Contamination\|Contamination]] or dies with levels of [[Fore Lindrov/2. Mechanics/Condition/Contamination\|Contamination]] triggers a transformation into a horrific monster of Godfrey's, what monster they transform into is determined by the vector of infection.
+
+
+|               Vector               |             Monster             |
+|----------------------------------|:-------------------------------:|
+| 1. [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Medium Swarm of Consumption Infection Worms\|Swarms of Consumption Infection Worms]]<br><br>2. [[Fore Lindrov/2. Mechanics/Disease/Consumption Worm Infection\|Consumption Worm Infection]] |           · [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Consumption Combat Form (Medium)\|Consumption Combat Form (Medium)]]<br><br>· [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Consumption Combat Form (Large)\|Consumption Combat Form (Large)]]<br><br>· [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Consumption Combat Form (Huge)\|Consumption Combat Form (Huge)]]           |
+|          1. [[Fore Lindrov/2. Mechanics/Hazard/Contamination Haze\|Contamination Haze]] <br><br>2. [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Consumption Pure Form\|Consumption Pure Form]] <br><br>3. [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Consumption Combat Form (Medium)\|Consumption Combat Form (Medium)]]         | · [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Medium Swarm of Consumption Infection Worms\|Medium Swarm of Consumption Infection Worms]]<br><br>· [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Large Swarm of Consumption Infection Worms\|Large Swarm of Consumption Infection Worms]]<br><br>· [[Fore Lindrov/3. Stat Blocks/Monstrosity/The Consumption/Huge Swarm of Consumption Infection Worms\|Huge Swarm of Consumption Infection Worms]] |
