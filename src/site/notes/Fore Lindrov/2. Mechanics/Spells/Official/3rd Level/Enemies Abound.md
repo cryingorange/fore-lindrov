@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/fore-lindrov/2-mechanics/spells/official/3rd-level/enemies-abound/","dg-note-properties":{"Mechanic Type":"Spell","Spell Level":"3rd","School of Magic":"Enchantment","Components":["Verbal","Somatic"],"Circle Spell":false,"Concentration":true,"Source":"Xanathar's Guide to Everything","Official":true}}
+---
+
+> **Casting Time:** Action
+> **Range:** 120 feet
+> **Components:** V, S
+> **Duration:** [[Fore Lindrov/2. Mechanics/Core/Concentration\|Concentration]], up to 1 minute
+
+You reach into the mind of one creature you can see and force it to make an INT saving throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
+
+Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it's using. If an enemy provokes an [[Fore Lindrov/2. Mechanics/Actions/Opportunity Attack\|Opportunity Attack]] from the affected creature, the creature must make that attack if it is able to.
+
+**Classes:** #Bard, #Sorcerer, #Warlock, #Wizard
