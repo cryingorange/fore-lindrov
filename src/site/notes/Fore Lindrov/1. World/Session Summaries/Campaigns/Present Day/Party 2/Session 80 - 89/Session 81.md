@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/fore-lindrov/1-world/session-summaries/campaigns/present-day/party-2/session-80-89/session-81/","tags":["SessionSummary"],"dg-note-properties":{"Note Type":"Session Summary","Party":"Party 2","tags":["SessionSummary"],"fc-date":{"year":8878,"month":2,"day":8},"fc-calendar":"fore-lindrov","fc-category":"session","fc-title":"Duergar Slaves","fc-description":"Roast and Ivy join the party. They free Duergar slaves and defeat Basatur the Orthon in a final battle.","time-sync-id":"duerga-39bd7d8e"}}
+---
+
+
+# Meet Roast & Ivy
+
+Turning to the newcomer of the group. Grimrid addresses Roast, curious from where she hails, but before Roast or Grimrid can continue their conversation, Roast suddenly grows to a much taller height and into a fully grown woman. Grimrid awkwardly introduces himself as the champion of Moradin, punching his fists together as he emits sunlight. Coming back from the dead and now officially the chosen of Moradin granting Grimrid a wide array of powers he's never had. 
+
+Just as Lu questions what has changed, Mordicael appears with an unwilling prisoner in tow. He vaguely hints at something to Ivy, a strange plant-like creature in the vague shape of a humanoid, telling her not to forget as he makes a show of looking at a ghostly lantern on his person before disappearing as Elisa tries to blast him with her spells. 
+
+Ivy joins the group, immediately forming friendship with Elisa as the two bond over their mutual detest of Mordicael, with Ivy sharing with Elisa that she's under the thumb of Mordicael due to contract he pushed her into signing. Grimrid approaches Ivy, introducing himself and expressing his slight curiosity towards Ivy being a treefolk. Lu also introduces himself and as Ivy says her name, Roast appears interrupting the conversation for a small reunion with an old friend. Ivy is surprised to see Roast alive. From Ivy, Roast learns of the fate of Morwenna and how Ivy took the deal with Micheal to both seal the mines and escape with her life. Though, Michael took advantage of the moment, stealing the lantern that held the original Ivy's soul. Roast comforts Ivy, assuring that they would take back what is rightfully hers. Roast vaguely alludes to the party's slightly emotional state, urging Ivy to speak with Elisa next. The conversation between Elisa and Ivy goes well. Meanwhile, Lu and Grimrid discuss whether inquiring upon a Treeperson’s physicality would be considered racist or specieist. 
+
+The party shares information of the underdark as Grimrid explains it to be a place far beneath the surface that is very dark, where dangerous creatures lurk. Such as Flumphs who dig into one's emotions. Roast listens intently, surmising that these dangerous Flumphs must pray on human emotions. Lu cuts in, reiterating that what Grimrid meant was that the underdark is a place deep in the grounds with not much light. They go on to explain their mission in these parts and of the drow encampment they are presently infiltrating. The party also helps the caged individuals, breaking the locks and providing them with some food, though these people are too hurt to even move. Now caught up to speed, the party disguises themselves as a group of Drow Elite warriors with Roast as the party's voice, seeing as she is able to mimic the voices of the drow. 
+
+# Duergar Slaves
+
+The party sets out and comes across a Duergar’s body. Grimrid rushes to the body, confirming that they are dead before checking on how they passed. The Duergar died due to the poor conditions that the slaves were put through. Grimrid mutters a prayer to the corpse. Heading down, the party ends up in the slave quarters, where some Duergar are resting. 
+
+The Duergar spits at the party who are disguised as Drow, and tells the party that they can do as they wish, that they refuse to mine a pebble more of stone for the Drow. The party does not punish the Duergar, and Grimrid, unwilling to entertain this interaction readies himself to leave. However, just as he tries to, two Drow descend from the ladder, immediately questioning the party's presence in the mines, seeng how the High Priestess, Shriala, had locked down the mines. Before the party can respond, the Duergar partake in insubordination, drawing the ire of the Drow who are just about to punish them when Roast steps in, telling the Drow to let her handle it, but this a ruse, and Roast triggers combat on the Drow, Surprising them. 
+
+Grimrid shouts in Dwarvish for the Duergar to join in as they do so, taking the chance to attack the Drow that captured and tormented them. The party gains the Duergar's trust, and Grimrid takes the lead of the conversation. The Duergar shares that there are several of them deeper in the mines and seeks the party's help to free their fellow Duergar in exchange for a weapon they had built. During the conversation, Elisa has Milton scout the area as she learns that deep within the chasms is a place filled with spiderwebs. Following the Duergar's directions the party ends up in a deeper section of the mines. 
+
+# Save The Slaves
+
+Grimrid uses his senses to see through the stone walls, just as the party hears a collapse. They rush to the area and spot several Drow covered in dust, low-level warriors who try to shirk responsibility, implying to the PCs, who are disguised as Elite Warriors, that there is no issue here that warrants further investigation. 
+
+They do so because they are fearful of being punished for possibly being blamed for the cave-in and the loss of the slaves behind it. But the drow move too slowly for the party's liking as Grimrid informs the party telepathically that a creature beyond the collapse is killing the Duergar, a fact that he's able to identify thanks to his Tremor Sense. The party attacks the drow, ending them swiftly as they rush to break through the cave in. They arrive, not soon enough but they manage to save some of the Duergar as Grimrid emits light, drawing the attention of the strange creatures, twisted beaked aberrations known as Grick.
+
+The party dispatch the Gricks and report back to the Duergar, who keep their word and hand them the weapon, a set of Gauntlets that they describe as carrying the Rage of Laduguer, the Duergar God, as promised. 
+
+Continuing with their quest, the party heads to where a Drow stands alone. Grimrid senses a presence behind the Drow, warning the party of it as Elisa attempts to identify this person. She recognises him as Basatur appears, snapping the neck of the Drow easily. Basatur is glad to see the party, citing to the other members that he will not feast on their bones due to the respect he has for Elisa. However, Ivy proclaims that she needs to take something from him, exposing what Mordicael previously tasked her with. Basatur claims that he only deals with proven champions, and refuses to relieve himself of whatever item he took from deeper in the mines, Basatur expresses his excitement in seeing whether or not the rest of Elisa's party members will prove to be worthy opponents as the party ready themselves to fight the bloodthirsty Basatur.
+
+
+#SessionSummary

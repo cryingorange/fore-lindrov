@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/fore-lindrov/1-world/session-summaries/campaigns/present-day/party-2/session-90-99/session-97/","tags":["SessionSummary"],"dg-note-properties":{"Note Type":"Session Summary","Party":"Party 2","tags":["SessionSummary"],"fc-date":{"year":8878,"month":4,"day":25},"fc-calendar":"fore-lindrov","fc-category":"session","fc-title":"The Ritual","fc-description":"A dark ritual is performed. Elisa banishes the demon Nezzrebe.","time-sync-id":"the-ri-39b53tof"}}
+---
+
+
+The Demon begins to attempt to possess Moog, jumping between Yuck and Ivy, and being driven out by Roast thanks to her protection with the Hat of the Unicorn. Grimrid is thrown down the the pits but emerges in an attempt to break the Ritual Concentrations of the Flinds corrupting the Elk. Elisa uses her Psionics to effectively hold Moog down, completely disabling her. 
+
+Ivy ends up tossed into the pits, and the Beast of Darkness begins to consume her as she stands there surrounded by the mounds of dead animals, identifying that many of them weren't even completely eaten.. Their deaths were clearly full of suffering. This triggers the Beast of Darkness, it whispers to Ivy that she must enact violence on these creatures, that they must right this cosmic wrong and consume the creatures that did this. Ivy gives into the Beast of Darkness, transforming into a massive Elk, lurking in the pits as the party tosses Flinds into the pits, whom she rips apart.
+
+The party fail to stop the corruption ritual in time, with the Celestial Elk permanently turning into a Demonic Elk, crazed, mouth foaming. Elisa reluctantly puts on the Hat of The Unicorn, and she successfully banishes the Demon, Nezzrebe, Exarch of Yeenoghu's spiritual presence away, effectively stopping the Balor from appearing in the Material Plane.
